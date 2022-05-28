@@ -1,0 +1,11 @@
+﻿Model No,Make,Model,Ex_Showroom_Price,Sale_per_year,Model_year,Fuel_Type,Seating_Capacity,Speedometer
+1,Tata,112/Ac,1000000,200,2016,Petrol,4,Analog
+2,Zecronics,113/AC,1900000,300,2019,CNG,2,Analog
+3,Tata,114/A,1500000,100,2020,Diesel,7,Digital
+4,Zecronis,115/A+,3900000,60,2016,Petrol,6,Digital
+5,Meta,116/A-,4000000,50,2017,CNG,5,Analog
+6,Meta,117/At,3000000,56,2018,CNG,4,Digital
+7,Floyado,118/As,8000000,500,2020,CNG,4,Digital
+8,Tata,119/Ax,3500000,1000,2019,Petrol,2,Analog
+9,Tata,120/ty,9000000,70,2021,Diesel,4,Digital
+10,Floyado,121/Rt,10000000,20,2022,Petrol,6,Analog
