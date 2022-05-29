@@ -41,7 +41,7 @@ you will directly go to my web app
 ### 4 https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14607954?start=525#overview    As i was a beigner in ML, this course  give me an overview that how ML works 
 # journey to my project
 This was very struggling and thriving journey , i learnt a lot by this journey , 
-How to work in deadline
+How to work in deadline,
 How to use stackflow to remove your errors
-and you have to do again and again , until you wins , i think my code is simple but in resolving tiny things , like how ML works , how voila works , how binder works ,takes my whole time . 
+and the most important thing  you have to try again and again , until you wins , i think my code is so complex but in resolving tiny things , like how ML works , how voila works , how binder works ,takes my whole time . 
 so that's all i learnt this month
