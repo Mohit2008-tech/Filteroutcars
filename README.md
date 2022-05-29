@@ -2,11 +2,10 @@
 # Overview
 This is basically a car filteration web app ,
 This will picks your prefrences and give the best 30 cars ( in the descending order of their sales ) 
-## instead of working on my data set , you can also upload your own data set to test my filter 
-## , you can use any data set , but it should be in given format 
-## by using this button
+###  instead of working on my data set , you can also upload your own data set to test my filter 
+###  by using this button 
 ![image](https://user-images.githubusercontent.com/83158393/170858590-9ab792a9-c990-4d2f-9432-3a97aafc2dcd.png)]
-https://github.com/Mohit2008-tech/Filteroutcars/blob/main/Demo_Format.csv
+###  , you can use any data set , but it should be in given format https://github.com/Mohit2008-tech/Filteroutcars/blob/main/Demo_Format.csv
 means use have to use only these columns but you can add as many rows you want , and can add your own company also like Torato , Pampo , etc , this filter will pick out the unique names and will put it into your dropboxes
 ![image](https://user-images.githubusercontent.com/83158393/170857131-8b312685-5100-4658-829b-7383b7994def.png)]
 ## like this
