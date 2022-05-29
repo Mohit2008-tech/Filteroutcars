@@ -9,7 +9,7 @@ This will picks your prefrences and give the best 30 cars ( in the descending or
 means use have to use only these columns but you can add as many rows you want , and can add your own company also like Torato , Pampo , etc , this filter will pick out the unique names and will put it into your dropboxes
 
 ## ![image](https://user-images.githubusercontent.com/83158393/170857131-8b312685-5100-4658-829b-7383b7994def.png)]
-## like this
+###  like this
 i also uploaded the demo file to test my prototype https://github.com/Mohit2008-tech/Filteroutcars/blob/main/Engage_demo.csv
 # How to go to my page ?
 ## please do these 3 simple steps to go to my binder page
@@ -28,9 +28,9 @@ i also uploaded the demo file to test my prototype https://github.com/Mohit2008-
 and wait for a couple of minutes to load the files from my github account
 you will directly go to my web app 
 # Working 
-## 1) Picking unique elements from the columns for dropdown buttons
+###  1) Picking unique elements from the columns for dropdown buttons
 ![image](https://user-images.githubusercontent.com/83158393/170858337-073ba754-b506-4b2e-8712-678c63deb330.png)
-## 2) Filter out list 
+###  2) Filter out list 
 ![image](https://user-images.githubusercontent.com/83158393/170858366-e7c43183-4f02-4471-9256-a2ced4e00a3d.png) 
 # Future Scope 
 ### 1 make it for any no of columns ( not restrict yourself to demo format only )
