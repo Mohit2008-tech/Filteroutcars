@@ -39,7 +39,7 @@ you will directly go to my web app
 ### 2 https://www.youtube.com/watch?v=t8P6estGusQ     This help me to understand how ipywidget can be use
 ### 3 https://ipywidgets.readthedocs.io/en/latest/    It helps me to create buttons like , dropdown box , int slider etc in python using ipywidget
 ### 4 https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14607954?start=525#overview    As i was a beigner in ML, this course  give me an overview that how ML works 
-# My Opinion and journey to my project
+# journey to my project
 This was very struggling and thriving journey , i learnt a lot by this journey , 
 How to work in deadline
 How to use stackflow to remove your errors
