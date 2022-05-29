@@ -2,7 +2,7 @@
 # Overview
 This is basically a car filteration web app ,
 This will picks your prefrences and give the best 30 cars ( in the descending order of their sales ) 
-**instead of working on my data set , you can also upload your own data set to test my filter **
+** instead of working on my data set , you can also upload your own data set to test my filter **
 , you can use any data set , but it should be in given format 
 https://github.com/Mohit2008-tech/Filteroutcars/blob/main/Demo_Format.csv
 means use have to use only these columns but you can add as many rows you want , and can add your own company also like Torato , Pampo , etc , this filter will pick out the unique names and will put it into your dropboxes
@@ -33,7 +33,7 @@ you will directly go to my web app
 ### 1 https://blog.finxter.com/how-to-create-an-interactive-web-application-using-jupyter-notebook/   
 ### 2 https://www.youtube.com/watch?v=t8P6estGusQ     This help me to understand how ipywidget can be use
 ### 3 https://ipywidgets.readthedocs.io/en/latest/    It helps me to create buttons like , dropdown box , int slider etc in python using ipywidget
-### 4 https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14607954?start=525#overview    As i was a beigner in ML, this course ### ### give me an overview that how ML works 
+### 4 https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14607954?start=525#overview    As i was a beigner in ML, this course  give me an overview that how ML works 
 # My Opinion and journey to my project
 This was very struggling and thriving journey , i learnt a lot by this journey , 
 How to work in deadline
