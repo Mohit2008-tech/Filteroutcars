@@ -7,7 +7,8 @@ This will picks your prefrences and give the best 30 cars ( in the descending or
 ![image](https://user-images.githubusercontent.com/83158393/170858590-9ab792a9-c990-4d2f-9432-3a97aafc2dcd.png)]
 ###  , you can use any data set , but it should be in given format https://github.com/Mohit2008-tech/Filteroutcars/blob/main/Demo_Format.csv
 means use have to use only these columns but you can add as many rows you want , and can add your own company also like Torato , Pampo , etc , this filter will pick out the unique names and will put it into your dropboxes
-![image](https://user-images.githubusercontent.com/83158393/170857131-8b312685-5100-4658-829b-7383b7994def.png)]
+
+## ![image](https://user-images.githubusercontent.com/83158393/170857131-8b312685-5100-4658-829b-7383b7994def.png)]
 ## like this
 i also uploaded the demo file to test my prototype https://github.com/Mohit2008-tech/Filteroutcars/blob/main/Engage_demo.csv
 # How to go to my page ?
