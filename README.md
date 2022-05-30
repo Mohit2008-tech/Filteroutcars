@@ -1,7 +1,7 @@
 
 # Overview
-This is basically a car filteration web app ,
-This will picks your prefrences and give the best 30 cars ( in the descending order of their sales ) 
+This is basically a car filtration web app ,
+This will picks your preferences and give the best 30 cars ( in the descending order of their sales ) 
 ###  instead of working on my data set , you can also upload your own data set to test my filter 
 ###  by using this button 
 ![image](https://user-images.githubusercontent.com/83158393/170858590-9ab792a9-c990-4d2f-9432-3a97aafc2dcd.png)]
