@@ -27,6 +27,13 @@ i also uploaded the demo file to test my prototype https://github.com/Mohit2008-
    ![image](https://user-images.githubusercontent.com/83158393/170828319-ca6da18a-e711-4c46-8f66-caafe044bcb0.png)
 and wait for a couple of minutes to load the files from my github account
 you will directly go to my web app 
+# In case you don't get my page 
+## please install anaconda and launch jupyter there 
+## and run my prototype there , and please uncomment these two lines so that you can install voila on your jupyter notebook
+![image](https://user-images.githubusercontent.com/83158393/171819935-3cc7fe0e-b330-4ff4-a76a-4dc11d081574.png)
+## After installing voila you will get a button like this
+![image](https://user-images.githubusercontent.com/83158393/171820053-7ba76840-deaf-4a8c-b0f3-b7b503403dab.png)
+## Now you have to simply click on this button to go to output screen 
 # Working 
 ###  1) Picking unique elements from the columns for dropdown buttons
 ![image](https://user-images.githubusercontent.com/83158393/170858337-073ba754-b506-4b2e-8712-678c63deb330.png)
