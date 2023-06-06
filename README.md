@@ -7,7 +7,7 @@ This is basically a car filtration web app ,
 This will picks your preferences and give the best 30 cars ( in the descending order of their sales ) 
 ###  instead of working on my data set , you can also upload your own data set to test my filter 
 ###  by using this button 
-![image](https://user-images.githubusercontent.com/83158393/170858590-9ab792a9-c990-4d2f-9432-3a97aafc2dcd.png)]
+
 ###  , you can use any data set , but it should be in given format https://github.com/Mohit2008-tech/Filteroutcars/blob/main/Demo_Format.csv
 means use have to use only these columns but you can add as many rows you want , and can add your own company also like Torato , Pampo , etc , this filter will pick out the unique names and will put it into your dropboxes
 
@@ -38,11 +38,7 @@ you will directly go to my web app
 ![image](https://user-images.githubusercontent.com/83158393/171820053-7ba76840-deaf-4a8c-b0f3-b7b503403dab.png)
 ## Now you have to simply click on this button to go to output screen 
 # Working 
-###  1) Picking unique elements from the columns for dropdown buttons
-![image](https://user-images.githubusercontent.com/83158393/170858337-073ba754-b506-4b2e-8712-678c63deb330.png)
-###  2) Filter out list 
-![image](https://user-images.githubusercontent.com/83158393/170858366-e7c43183-4f02-4471-9256-a2ced4e00a3d.png) 
-# Future Scope 
+
 ### 1 make it for any no of columns ( not restrict yourself to demo format only )
 ### 2 Giving it an interactive interface by using Css in python
 ### 3 connect it with Api 's to show the pic of car , and also make it a car purchasing web app.
